@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BootCamp</string>
+    <string name="press_me">Press me!</string>
+    <string name="your_name_hint">Your Name</string>
+</resources>
